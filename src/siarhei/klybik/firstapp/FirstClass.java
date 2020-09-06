@@ -16,7 +16,10 @@ public class FirstClass {
                 System.out.println(f);
             }
         }
-
+        Tribe Reapers = new Tribe();
+        Reapers.ShowName();
+        Reapers.ShowFireTrigger();
+        Reapers.ShowQuantity();
     }
 }
 
